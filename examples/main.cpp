@@ -7,7 +7,7 @@ using namespace std;
 
 int main(int argc, char **argv) {
 	if(argc != 4 || strlen(argv[2]) != 1) {
-		cout << "Invalid parameters" << endl;
+		cout << "Invalid parameters >:(" << endl;
 		return 1;
 	}
 	double a = atof(argv[1]), b = atof(argv[3]), res;
