@@ -26,6 +26,6 @@ int main(int argc, char **argv) {
 			return 1;
 		}
 	}
-	cout << res << endl;
+	cout  << "Result: " << res << endl;
 	return 0;
 }
